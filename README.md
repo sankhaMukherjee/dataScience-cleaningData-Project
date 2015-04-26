@@ -8,3 +8,4 @@ This file is to be put outside the folder "UCI HAR Dataset" and run in this dire
 
 "summary.csv", and "total.csv".
 
+The file "CodeBook.md" provides the inference for the data being created. 
